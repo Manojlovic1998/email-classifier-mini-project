@@ -4,6 +4,9 @@ env
 #Bash Script
 script.sh
 
+__pycache__
+maildir
+
 
 # The Data Set
 enron_mail_20150507.tar.gz
