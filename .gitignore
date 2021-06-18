@@ -6,5 +6,7 @@ script.sh
 
 
 # The Data Set
-
 enron_mail_20150507.tar.gz
+
+# Pycharm
+.idea
