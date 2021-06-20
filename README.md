@@ -24,7 +24,7 @@ python3 practice.py
 ## Tools Info
 
 I have re-built the tool presented to me in the course material.
-The tool was written in python2, and it used outdated. Its dependencies used obsolete major versions. 
+The tool was written in python2, and it was outdated. Its dependencies used obsolete major versions. 
 Therefore, I had rebuilt it to fit this practice project.
 
 Tool imports ROOT_DIR from config file. 
