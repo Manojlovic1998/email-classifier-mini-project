@@ -10,6 +10,8 @@ maildir
 
 # The Data Set
 enron_mail_20150507.tar.gz
+email_authors.pkl
+word_data.pkl
 
 # Pycharm
 .idea
